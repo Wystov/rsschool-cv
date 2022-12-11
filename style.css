@@ -1,1 +1,38 @@
+body {
+    color: #ffffff;
+    background-color: #545456;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+}
+
+/* HEADER */
+
+.introduction {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+header img {
+    border-radius: 125px;
+}
+
+.avatar {
+    padding-right: 50px;
+}
+.name {
+    text-align: center;
+    padding-left: 50px;
+}
+
+.menu {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+/* MAIN */
 
