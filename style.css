@@ -48,6 +48,7 @@ header img {
 
 h1 {
     font-size: 40px;
+    text-transform: uppercase;
 }
 
 .profession {
@@ -115,10 +116,6 @@ section {
     color: #000000;
 }
 
-li {
-    padding-bottom: 10px;
-}
-
 .bg_container {
     background-color: #545456;
     border-radius: 15px;
@@ -141,13 +138,38 @@ span.link {
 }
 
 ul.content {
-    padding-top: 15px;
     padding-bottom: 15px;
     margin-bottom: 25px;
 }
 
 .content {
     margin-bottom: 35px;
+}
+
+li .contact {
+    padding-bottom: 10px;
+}
+
+#left .content {
+    margin-right: 50px;
+}
+
+.code {
+    background-color: #007AFF;
+    border-radius: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+pre {
+    margin: 0;
+    padding-left: 10px;
+}
+
+#contact ul.content {
+    padding-top: 15px;
+    padding-bottom: 10px;
 }
 
 /* FOOTER */
