@@ -37,6 +37,7 @@ header img {
 .name {
     text-align: center;
     padding-left: 50px;
+    letter-spacing: 3px;
 }
 
 .menu {
@@ -157,8 +158,6 @@ li .contact {
 .code {
     background-color: #007AFF;
     border-radius: 15px;
-    padding-top: 25px;
-    padding-bottom: 25px;
     text-align: left;
 }
 
